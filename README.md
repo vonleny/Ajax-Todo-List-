@@ -1,11 +1,8 @@
-# README
+# Ajax To-do List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### This app is a simple to do list that lets you add, edit, and delete content of that list in the same tasks page. This can be done by usin AJAX and ruby on rails turbolinks.
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version 2.4.1
 
 * System dependencies
 
