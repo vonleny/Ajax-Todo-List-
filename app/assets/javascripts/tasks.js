@@ -6,6 +6,6 @@ $(document).on('turbolinks:load', function(){
 	$('#save').click(function(evt){
 		evt.preventDefault();
 		console.log("Clicked");
-		// $('.edit_form').submit();
+	    $('.edit_form').submit();
 	});
 });
